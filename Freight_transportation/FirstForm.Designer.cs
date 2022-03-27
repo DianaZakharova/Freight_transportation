@@ -209,7 +209,6 @@ namespace Freight_transportation
             this.MaximumSize = new System.Drawing.Size(816, 489);
             this.Name = "FirstForm";
             this.Text = "MainForm";
-            this.Load += new System.EventHandler(this.FirstForm_Load);
             this.tabl.ResumeLayout(false);
             this.PilotINFO.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dataTable)).EndInit();
