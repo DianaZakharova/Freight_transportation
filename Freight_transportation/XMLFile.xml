@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ChelANDgood>
+<Pilots>
+	<Pilot id="1">
+		<Name_pilot>Вася</Name_pilot>
+		<Surname_pilot>Петров</Surname_pilot>
+		<Stage_pilot>3</Stage_pilot>
+		<IdEdu>12378529</IdEdu>
+	</Pilot>
+	<Pilot id="2">
+		<Name_pilot>Гоша</Name_pilot>
+		<Surname_pilot>Иванов</Surname_pilot>
+		<Stage_pilot>10</Stage_pilot>
+		<IdEdu>72388529</IdEdu>
+	</Pilot>
+	<Pilot id="3">
+		<Name_pilot>Миша</Name_pilot>
+		<Surname_pilot>Сурков</Surname_pilot>
+		<Stage_pilot>1</Stage_pilot>
+		<IdEdu>72293529</IdEdu>
+	</Pilot>
+</Pilots>
+	
+	
+<Drivers>
+	<Driver id="1">
+		<Name_driver>Лёня</Name_driver>
+		<Surname_driver>Щербаков</Surname_driver>
+		<Stage_driver>5</Stage_driver>
+	</Driver>
+	<Driver id="2">
+		<Name_driver>Ваня</Name_driver>
+		<Surname_driver>Кукушкин</Surname_driver>
+		<Stage_driver>55</Stage_driver>
+	</Driver>
+</Drivers>
+
+<Goods>
+	<Good id="1">
+		<Name_good>Пупырка</Name_good>
+		<Weight>4,4</Weight>
+	</Good>
+	<Good id="2">
+		<Name_good>Пуа</Name_good>
+		<Weight>5</Weight>
+	</Good>
+</Goods>
+</ChelANDgood>
+
