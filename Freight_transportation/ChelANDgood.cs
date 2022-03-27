@@ -29,16 +29,16 @@ namespace Serialization
         [System.Xml.Serialization.XmlAttribute("id", Namespace = "")]
         public int id { get; set; }
 
-        [System.Xml.Serialization.XmlAttribute("IdEdu", Namespace ="")]
+        [System.Xml.Serialization.XmlElement("IdEdu", Namespace ="")]
         public ulong IdEdu { get; set; }
 
-        [System.Xml.Serialization.XmlAttribute("Name_pilot", Namespace = "")]
+        [System.Xml.Serialization.XmlElement("Name_pilot", Namespace = "")]
         public string Name_pilot { get; set; }
 
-        [System.Xml.Serialization.XmlAttribute("Surname_pilot", Namespace = "")]
+        [System.Xml.Serialization.XmlElement("Surname_pilot", Namespace = "")]
         public string Surname_pilot { get; set; }
 
-        [System.Xml.Serialization.XmlAttribute("Stage_pilot", Namespace = "")]
+        [System.Xml.Serialization.XmlElement("Stage_pilot", Namespace = "")]
         public int Stage_pilot { get; set; }
 
     }
