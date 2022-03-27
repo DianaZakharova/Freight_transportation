@@ -16,5 +16,11 @@ namespace JSON_tranportation
         {
             InitializeComponent();
         }
+
+        private void FirstForm_Load(object sender, EventArgs e)
+        {
+ 
+        }
+
     }
 }
